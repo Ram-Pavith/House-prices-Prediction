@@ -1,7 +1,6 @@
 # Kaggle House Prices: Advanced Regression Techniques
-[House Prices: Advanced Regression Techniques
-Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-#### Shitao Wang submission version 1
+House Prices: Advanced Regression Techniques
+Competition on Kaggle
 
 ### Install
 
@@ -26,12 +25,6 @@ of the data can be found in [Kaggle](https://www.kaggle.com/c/house-prices-advan
 For a single model run, navigate to the `/code/single_model/` and run the following commands: ```python base_model.py```
 For a ensemble run, navigate to the `/code/ensemble/` and run the following commands: ```python ensemble.py```
 Make sure to change the data directory and the parameters accordingly before the model run.
-
-### Submission
-
-<img src="/doc/fig/score_with_different_approaches.png">
-
-Submission score on Kaggle leaderboard with different approaches.
 
 ### FlowChart
 
